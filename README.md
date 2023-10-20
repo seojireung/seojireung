@@ -1,4 +1,4 @@
-### Thank you to visit!
+### Thank you to visiting!
 
 <!--
 **seojireung/seojireung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
