@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi!
 
 <!--
 **seojireung/seojireung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:9eefce,60:a991e2,100:e7b5d4&text=Hi!%20It's%20Ji%20Young's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=35&fontAlign=70&height=200)
