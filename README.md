@@ -7,10 +7,15 @@
 <!-- upside wave -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:e7b5d4,60:a991e2,100:9eefce&text=&animation=fadeIn&fontSize=40&fontAlignY=50&fontAlign=67&height=120&fontColor=4c444f)
 
-<h1>🌿 Ji Young 🌿</h1></br></br>
+<h1>🌿 Ji Young 🌿</h1>
 
 <!-- hits -->
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%2396C4F3&title_bg=%23504D90&icon=&icon_color=%23F1E7E7&title=GITHUB&edge_flat=false)](https://hits.seeyoufarm.com)
-</br>
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=seojireung&show_icons=true&theme=radical)</br>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseojireung&count_bg=%23B9E599&title_bg=%233A5840&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=seojireung&show_icons=true&theme=merko)
+<!-- languages -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seojireung)
+
+🛠 Skills 🛠
+
+
