@@ -2,10 +2,9 @@
 <!--[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4f4f4f&lines=Thank+you+for+visiting!&font=Caveat&size=40)](https://git.io/typing-svg)-->
 
 <!-- header -->
-<!-- downside wave -->
-<!--![header](https://capsule-render.vercel.app/api?type=waving&color=0:9eefce,60:a991e2,100:e7b5d4&height=120&animation=fadeIn&section=footer&text=Hi!%20It's%20Ji%20Young's%20GitHub%20🌿&fontAlign=65&fontSize=40&fontColor=4c444f)-->
+
 <!-- upside wave -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:e7b5d4,60:a991e2,100:9eefce&text=&animation=fadeIn&fontSize=40&fontAlignY=50&fontAlign=67&height=120&fontColor=4c444f)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:e7b5d4,60:a991e2,100:9eefce&text=&animation=fadeIn&fontSize=40&fontAlignY=50&fontAlign=67&height=150&fontColor=4c444f)
 
 <h1>🌿 Ji Young 🌿</h1>
 
@@ -16,6 +15,15 @@
 <!-- languages -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seojireung)
 
-🛠 Skills 🛠
+🛠 Tech Stack 🛠
 
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/>  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/>
 
+🌵 Me 🌵
+
+<img src="https://img.shields.io/badge/- seojireung-181717?style=flat-square&logo=GitHub&logoColor=white"/>  <img src="https://img.shields.io/badge/- TechBlog-000000?style=flat-square&logo=Tistory&logoColor=white"/>  <img src="https://img.shields.io/badge/- Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/>
+
+<!--footer-->
+<!-- downside wave -->
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:9eefce,60:a991e2,100:e7b5d4&height=120&animation=fadeIn&section=footer&fontAlign=65&fontSize=40&fontColor=4c444f)
