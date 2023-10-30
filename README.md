@@ -29,11 +29,11 @@
 <img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/>  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>  <img src="https://img.shields.io/badge/Sourcetree-0052CC?style=flat-square&logo=Sourcetree&logoColor=white"/>
 
 <!-- 백준티어 -->
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=seo1259)](https://solved.ac/seo1259/)
+<!--[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=seo1259)](https://solved.ac/seo1259/)-->
 <!-- languages -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seojireung)</br>
 <!-- stats -->
-![Seojireung's GitHub stats](https://github-readme-stats.vercel.app/api?username=seojireung&show_icons=true&theme=tokyonight)
+<!--![Seojireung's GitHub stats](https://github-readme-stats.vercel.app/api?username=seojireung&show_icons=true&theme=tokyonight)-->
 
 <!--footer-->
 <!-- downside wave -->
