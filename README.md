@@ -29,7 +29,8 @@
 <img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/>  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>  <img src="https://img.shields.io/badge/Sourcetree-0052CC?style=flat-square&logo=Sourcetree&logoColor=white"/>
 
 <!-- languages -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seojireung)</br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seojireung&layout=compact&theme=tokyonight)</br>
 <!-- 백준티어 -->
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=seo1259)](https://solved.ac/seo1259/)
 <!-- stats -->
