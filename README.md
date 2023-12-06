@@ -6,7 +6,7 @@
 <!-- header -->
 
 <!-- upside wave -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:a0c9a0,60:b7c3ef,100:9eefce&text=&animation=fadeIn&fontSize=40&fontAlignY=50&fontAlign=67&height=150&fontColor=4c444f)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:a0c9a0,60:e8908b,100:9eefce&text=&animation=fadeIn&fontSize=40&fontAlignY=50&fontAlign=67&height=150&fontColor=4c444f)
 
 # 🌿 Ji Young 🌿
 
@@ -38,6 +38,6 @@
 
 <!--footer-->
 <!-- downside wave -->
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:9eefce,60:b7c3ef,100:a0c9a0&height=120&animation=fadeIn&section=footer&fontAlign=65&fontSize=40&fontColor=4c444f)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:9eefce,60:e8908b,100:a0c9a0&height=120&animation=fadeIn&section=footer&fontAlign=65&fontSize=40&fontColor=4c444f)
 
 </div>
