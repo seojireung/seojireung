@@ -8,7 +8,7 @@
 <!-- upside wave -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:4c616d,40:bdc8cd,70:efe6e4,100:dfe8e8&text=&animation=fadeIn&fontSize=40&fontAlignY=50&fontAlign=67&height=150&fontColor=4c444f)
 
-# Hi, I'm Ji Young 🌿
+# 🌿 Hi, I'm Ji Young 🌿
 
 <!-- hits -->
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseojireung&count_bg=%2330BE52&title_bg=%23386236&icon=github.svg&icon_color=%23E7E7E7&title=Github&edge_flat=true)](https://hits.seeyoufarm.com)
