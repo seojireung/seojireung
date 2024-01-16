@@ -34,7 +34,7 @@
 <!-- 백준티어 -->
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=seo1259)](https://solved.ac/seo1259/)
 <!-- stats -->
-<!--![Seojireung's GitHub stats](https://github-readme-stats.vercel.app/api?username=seojireung&show_icons=true&theme=tokyonight)-->
+![Seojireung's GitHub stats](https://github-readme-stats.vercel.app/api?username=seojireung&show_icons=true&theme=tokyonight)
 
 <!--footer-->
 <!-- downside wave -->
